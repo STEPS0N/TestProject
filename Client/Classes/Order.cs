@@ -8,5 +8,6 @@ namespace Client.Classes
 {
     internal class Order
     {
+
     }
 }
